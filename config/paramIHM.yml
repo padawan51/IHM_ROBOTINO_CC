@@ -1,0 +1,28 @@
+%YAML:1.0
+---
+IP_PC: "192.168.1.126"
+IP_Robotino: "192.168.43.22"
+robot_diameter: 370
+tool_length: 400
+tool_width: 40
+extra: 30
+leds_height: 505
+max_linear_velocity: 60
+min_angular_velocity: 2.0000000000000001e-01
+working_area_length: 2775
+working_area_width: 2900
+measurement_point_dx: 550
+measurement_point_dy: 750
+rest_time: 2
+measure_period: 1.
+measure_timer: 5
+pulley_radius: 1.0250000000000000e+01
+motor_precision_index: 0
+motor_precision: 2.2500000894069672e-02
+motor_precision_divider: 16
+duty_cycle: 35
+duty_cycle_index: 5
+lin_vel_motor_mast: 300
+number_of_heights: 2
+h_1: 100
+h_2: 115

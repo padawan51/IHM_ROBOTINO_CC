@@ -1,0 +1,9 @@
+%YAML:1.0
+---
+type: 0
+Kp_position: 1.5000000000000000e+00
+Kp_orientation: 1.3000000000000000e+00
+Ki_position: 0.
+Ki_orientation: 0.
+Kd_position: 0.
+Kd_orientation: 0.

@@ -1,0 +1,8 @@
+%YAML:1.0
+---
+h_min: 13
+h_max: 87
+s_min: 98
+s_max: 255
+v_min: 76
+v_max: 255

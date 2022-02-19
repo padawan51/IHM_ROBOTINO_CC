@@ -1,0 +1,5 @@
+/intermediary_node
+/motor_mast_node
+/pc_controller_node
+/rosout
+/sensor_node
